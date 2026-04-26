@@ -1,10 +1,10 @@
 {
   "Build": "Phantom",
-  "Last update": "07-04-2026",
+  "Last update": "26-04-2026",
   "Change Log:": "",
-  "#1": "Added loader",
-  "#2": "Added +restocked keys",
-  "#3": "Added Skins group",
-  "#4": "Fixed clantag"
+  "#1": "Reworked Configuration system",
+  "#2": "Added new Ragebot features",
+  "#3": "Added new Misc and Visuals features",
+  "#4": "Many fixes"
 
 }
